@@ -54,4 +54,4 @@ Our focus is to investigate the representation geometry in VLMs. We aim to:
 
 ## Let's Get Hacking!
 
-You've got the background, now let's get to work! The next section will guide you through setting up your environment and starting our exploration of semantic geometry.
+You've got the background, now let's get to work! 
